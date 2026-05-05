@@ -1,0 +1,11 @@
+Ticket ID,Date Opened,Customer Segment,Issue Category,Priority,Status,Channel,Root Cause,Resolution Notes,Resolution Time Hours,Repeat Issue,Escalated
+TCK-1001,2026-05-01,SMB,Access,High,Resolved,Chat,Expired login session,Guided customer through password reset and session refresh,2,No,No
+TCK-1002,2026-05-01,Enterprise,Integration,Urgent,Escalated,Email,Invalid API token scope,Collected endpoint details and escalated with auth notes,6,Yes,Yes
+TCK-1003,2026-05-02,SMB,Billing,Medium,Resolved,Voice,Incorrect billing profile,Updated case notes and routed billing correction,4,No,No
+TCK-1004,2026-05-02,Startup,Platform,High,Pending Engineering,Chat,Workflow error after update,Reproduced issue and documented steps for engineering,8,Yes,Yes
+TCK-1005,2026-05-03,Enterprise,Reporting,Medium,Resolved,Email,Missing event tracking,Confirmed GTM trigger issue and documented correction,5,Yes,No
+TCK-1006,2026-05-03,SMB,Account,Low,Resolved,Chat,User permission mismatch,Updated support notes and guided admin permission change,1,No,No
+TCK-1007,2026-05-04,Startup,Integration,High,Resolved,Email,Wrong endpoint environment,Customer was using sandbox endpoint for production data,3,Yes,No
+TCK-1008,2026-05-04,Enterprise,Platform,Urgent,Escalated,Voice,System timeout during checkout,Collected logs and escalated with customer impact summary,7,Yes,Yes
+TCK-1009,2026-05-05,SMB,Onboarding,Medium,Resolved,Chat,Incomplete setup steps,Provided onboarding checklist and confirmed successful setup,2,No,No
+TCK-1010,2026-05-05,Enterprise,Analytics,Medium,Resolved,Email,GA4 event naming mismatch,Corrected event naming documentation for tracking review,4,Yes,No

@@ -426,6 +426,18 @@ td {
   margin-top: 28px;
 }
 
+.asset-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.asset-actions .button {
+  margin-top: 0;
+}
+
 .contact {
   text-align: center;
 }
